@@ -1,3 +1,2 @@
-print("Hello world!")
-x = 12
-print(x)
+a = [100, 200, 300, 400]
+print(a)
